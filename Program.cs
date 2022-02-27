@@ -18,11 +18,9 @@ class Program
         a1.Apresentar();
 
         Data data = new Data();
-        data.SetMes(20);
 
-        data.Mes = 20;
+        data.Mes = 12;
         System.Console.WriteLine(data.Mes);
 
-        data.ApresentarMes();
     }
 }
