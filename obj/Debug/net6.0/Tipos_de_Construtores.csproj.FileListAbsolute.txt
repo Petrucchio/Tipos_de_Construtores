@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Tipos_de_Construtores\Tipos_de_Construtores\bin\Debug\net6.0\Tipos_de_Construtores.exe
+C:\Users\User\source\repos\Tipos_de_Construtores\Tipos_de_Construtores\bin\Debug\net6.0\Tipos_de_Construtores.deps.json
+C:\Users\User\source\repos\Tipos_de_Construtores\Tipos_de_Construtores\bin\Debug\net6.0\Tipos_de_Construtores.runtimeconfig.json
+C:\Users\User\source\repos\Tipos_de_Construtores\Tipos_de_Construtores\bin\Debug\net6.0\Tipos_de_Construtores.dll
+C:\Users\User\source\repos\Tipos_de_Construtores\Tipos_de_Construtores\bin\Debug\net6.0\ref\Tipos_de_Construtores.dll
+C:\Users\User\source\repos\Tipos_de_Construtores\Tipos_de_Construtores\bin\Debug\net6.0\Tipos_de_Construtores.pdb
+C:\Users\User\source\repos\Tipos_de_Construtores\Tipos_de_Construtores\obj\Debug\net6.0\Tipos_de_Construtores.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Tipos_de_Construtores\Tipos_de_Construtores\obj\Debug\net6.0\Tipos_de_Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Tipos_de_Construtores\Tipos_de_Construtores\obj\Debug\net6.0\Tipos_de_Construtores.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Tipos_de_Construtores\Tipos_de_Construtores\obj\Debug\net6.0\Tipos_de_Construtores.AssemblyInfo.cs
+C:\Users\User\source\repos\Tipos_de_Construtores\Tipos_de_Construtores\obj\Debug\net6.0\Tipos_de_Construtores.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Tipos_de_Construtores\Tipos_de_Construtores\obj\Debug\net6.0\Tipos_de_Construtores.dll
+C:\Users\User\source\repos\Tipos_de_Construtores\Tipos_de_Construtores\obj\Debug\net6.0\ref\Tipos_de_Construtores.dll
+C:\Users\User\source\repos\Tipos_de_Construtores\Tipos_de_Construtores\obj\Debug\net6.0\Tipos_de_Construtores.pdb
+C:\Users\User\source\repos\Tipos_de_Construtores\Tipos_de_Construtores\obj\Debug\net6.0\Tipos_de_Construtores.genruntimeconfig.cache
