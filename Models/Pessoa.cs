@@ -16,12 +16,12 @@ namespace Tipos_de_Construtores.Models
         {
             this.nome = nome;
             this.sobrenome = sobrenome;
-            System.Console.WriteLine("Construtor classe pessoa!");
+            Console.WriteLine("Construtor classe pessoa!");
         }
 
         public void Apresentar()
         {
-            System.Console.WriteLine($"Olá, meu nome é: {nome} {sobrenome}");
+            Console.WriteLine($"Olá, meu nome é: {nome} {sobrenome}");
         }
     }
 }

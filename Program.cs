@@ -12,7 +12,7 @@ class Program
         log.PropriedadeLog = "Teste instancia";
 
         Log log2 = Log.GetInstance();
-        System.Console.WriteLine(log2.PropriedadeLog);
+        Console.WriteLine(log2.PropriedadeLog);
 
         Aluno a1 = new Aluno("Henrique", "Batista", "Teste");
         a1.Apresentar();
@@ -20,7 +20,14 @@ class Program
         Data data = new Data();
 
         data.Mes = 12;
-        System.Console.WriteLine(data.Mes);
+        Console.WriteLine(data.Mes);
 
+        const double pi = 3.14;
+        Console.WriteLine(pi);
+
+
+        Matematica m = new Matematica(10, 20);
+        m.Subtrair();
+        m.Somar();
     }
 }

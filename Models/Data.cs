@@ -40,11 +40,11 @@
         {
             if (this.mesValido)
             {
-                System.Console.WriteLine(this.mes);
+                Console.WriteLine(this.mes);
             }
             else
             {
-                System.Console.WriteLine("Mês inválido");
+                Console.WriteLine("Mês inválido");
             }
         }
     }
